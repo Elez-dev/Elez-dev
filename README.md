@@ -2,8 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science and Radio-Electronic Warfare (REW) student from Russia 🇷🇺</h3>
 
+---
 
 ![](https://komarev.com/ghpvc/?username=Elez-dev&color=red&style=flat)
+[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/developercode1)](https://t.me/developercode1)
 
 ---
 
